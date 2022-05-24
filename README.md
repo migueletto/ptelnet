@@ -7,29 +7,6 @@ Please see the LICENSE file for information on licensing.
 This software comes with absolutely NO warranty, so use it at your own risk.
 Send comments or suggestions to this email address: migueletto at yahoo dot com
 
-Regards,
-migueletto
-
---
-
-1. Introduction
- 1.1. Requirements
- 1.2. Features
- 1.3. What is new
- 1.4. Known bugs
- 1.5. Upgrading from previous versions
-
-2. Operation
- 2.1. Connecting
- 2.2. Sending text
- 2.3. Terminal characteristics
-
-3. Menus
- 3.1. The "Options" menu
- 3.2. The "Edit" menu
-
-4. History log
-
 --
 
 1. Introduction
