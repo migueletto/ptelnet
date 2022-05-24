@@ -1,0 +1,2 @@
+application { "Ptelnet" Ptln stack=4096 }
+multiple code { "tn3270" }

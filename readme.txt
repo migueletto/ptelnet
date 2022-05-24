@@ -1,11 +1,22 @@
-# ptelnet
+ptelnet 0.7
+-----------
+
+Released: 2020-09-13
 
 ptelnet is a Telnet Client / Terminal Emulator for the Palm Computing platform.
-ptelnet is Copyright (c) 1997-2022 migueletto.
-Please see the LICENSE file for information on licensing.
+
+ptelnet is distributed as freeware but is not in the public domain.
+ptelnet is Copyright (c) 1997-2020 migueletto.
+
+ptelnet can not be reverse engineered or modified in any way (including
+this readme). To include ptelnet in any software collection, online or not,
+first contact the author for permission. No one is allowed to sell or charge
+for redistributing ptelnet.
 
 This software comes with absolutely NO warranty, so use it at your own risk.
-Send comments or suggestions to this email address: migueletto at yahoo dot com
+
+Send comments or suggestions to this email address: migueletto@yahoo.com
+The ptelnet home-page is located at: http://migueletto.github.io/ptelnet/ptelnet.html
 
 Regards,
 migueletto
